@@ -1,6 +1,6 @@
 # Who am I
 
-Lead Software Developer and security practitioner. I build automation frameworks,
+Lead Software Developer and security practitioner. I build agentic harnesses and frameworks,
 AI-powered development tools, and infrastructure-as-code.
 
 ## What I'm working on
