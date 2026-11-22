@@ -1,4 +1,4 @@
-# Hi, I'm Chris
+# Who am I
 
 DevOps engineer and security practitioner. I build automation frameworks,
 AI-powered development tools, and infrastructure-as-code.
