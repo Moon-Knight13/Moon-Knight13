@@ -1,6 +1,6 @@
 # Who am I
 
-DevOps engineer and security practitioner. I build automation frameworks,
+Lead Software Developer and security practitioner. I build automation frameworks,
 AI-powered development tools, and infrastructure-as-code.
 
 ## What I'm working on
@@ -16,4 +16,4 @@ AI-powered development tools, and infrastructure-as-code.
 
 ## Certifications & Learning
 
-CompTIA Net+ (study), PCEP, IBM DevOps Professional Certificate courses
+CompTIA Sec+ & Net+ , PCEP, IBM DevOps Professional Certificate courses
